@@ -1,4 +1,4 @@
-# voice_speedometer
+# Geo_speedometer
 
 A speedometer that displays the current velocity of the phone's movement, while also narrating it in the background.
 
